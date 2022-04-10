@@ -20,6 +20,8 @@ public class Test {
     * @date: 2022/4/10 0:48 
     */
     public static void main(String[] args) {
-        System.out.println("111222");
+        System.out.println("1111222");
+        System.out.println("1111222");
+        System.out.println("1111222");
     }
 }

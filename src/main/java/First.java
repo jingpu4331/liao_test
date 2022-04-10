@@ -27,7 +27,6 @@ public class First {
      * @date: 2022/4/10 9:20
      */
     private String second(String param) {
-
         return null;
     }
 }
